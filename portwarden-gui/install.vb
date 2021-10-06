@@ -9,7 +9,6 @@
             IO.File.Delete("warden\bw.zip")
         End Using
         Form1.enable(True)
-        MessageBox.Show("Done.")
         Close()
     End Sub
 End Class
