@@ -16,7 +16,7 @@ Easy Bitwarden backups
     - Click Decrypt
 - Wait for the process to finish
 
-#### Todo
+## Todo
 - [ ] Support restore
 - [ ] Automatically use latest release
   - [ ] of bitwarden
