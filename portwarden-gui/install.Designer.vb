@@ -65,7 +65,7 @@ Partial Class install
         Me.Controls.Add(Me.Button1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Name = "install"
-        Me.Text = "install"
+        Me.Text = "Dependencies"
         Me.TopMost = True
         Me.ResumeLayout(False)
         Me.PerformLayout()
