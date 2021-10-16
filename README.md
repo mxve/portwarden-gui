@@ -1,4 +1,4 @@
-# ![](icon.png) Portwarden GUI
+# ![](icon1.png) Portwarden GUI
 Easy Bitwarden backups
 
 ![](screenshot.png)
