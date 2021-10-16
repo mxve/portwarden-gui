@@ -10,6 +10,9 @@ Easy Bitwarden backups
     - (Optional) Select a backup directory
     - Click Backup
     - Login with your bitwarden account
+       - To get your API key log in on bitwarden.com,
+       go to My Account and scroll to the bottom of the page
+       ([Why is this needed?](https://bitwarden.com/help/article/cli-auth-challenges/))
   - Decrypt backup
     - Input the encryption password
     - Select the backup to decrypt
